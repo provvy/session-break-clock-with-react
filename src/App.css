@@ -1,0 +1,91 @@
+.App {
+  background-color: #363D9E;
+  height: 100vh;
+  color: white;
+}
+
+.header {
+  font-size: 56px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 145px;
+}
+
+.controls-div {
+  display: flex;
+  justify-content: center;
+}
+
+.labels-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 25px 30px 0;
+}
+
+.label {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.buttons-div {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+button {
+  outline: none;
+  border: none;
+  background-color: #363D9E;
+  cursor: pointer;
+}
+
+.fa-arrow-up, .fa-arrow-down {
+  padding: 0 15px;
+  color: white;
+}
+
+.timer-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 10px solid #262B6F;
+  width: 300px;
+  border-radius: 50px;
+  padding: 20px 0;
+  margin: 25px auto 0;
+}
+
+#timer-label {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+#time-left {
+  font-size: 75px;
+  font-weight: 600;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin: 18px 0 0;
+}
+
+#start_stop, #reset {
+  color: white;
+  font-size: 26px;
+  margin: 0 10px;
+}
+
+footer {
+  font-size: 11px;
+  color: white;
+  font-style: italic;
+  font-weight: 100;
+  text-align: right;
+  margin-top: 300px;
+  margin-right: 50px;
+}
