@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/session-break-clock-with-react/static/css/main.3c419379.chunk.css",
+    "main.js": "/session-break-clock-with-react/static/js/main.819e1115.chunk.js",
+    "main.js.map": "/session-break-clock-with-react/static/js/main.819e1115.chunk.js.map",
+    "runtime-main.js": "/session-break-clock-with-react/static/js/runtime-main.a0ae4d97.js",
+    "runtime-main.js.map": "/session-break-clock-with-react/static/js/runtime-main.a0ae4d97.js.map",
+    "static/js/2.95e6b0f0.chunk.js": "/session-break-clock-with-react/static/js/2.95e6b0f0.chunk.js",
+    "static/js/2.95e6b0f0.chunk.js.map": "/session-break-clock-with-react/static/js/2.95e6b0f0.chunk.js.map",
+    "static/js/3.939833c2.chunk.js": "/session-break-clock-with-react/static/js/3.939833c2.chunk.js",
+    "static/js/3.939833c2.chunk.js.map": "/session-break-clock-with-react/static/js/3.939833c2.chunk.js.map",
+    "index.html": "/session-break-clock-with-react/index.html",
+    "static/css/main.3c419379.chunk.css.map": "/session-break-clock-with-react/static/css/main.3c419379.chunk.css.map",
+    "static/js/2.95e6b0f0.chunk.js.LICENSE.txt": "/session-break-clock-with-react/static/js/2.95e6b0f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0ae4d97.js",
+    "static/js/2.95e6b0f0.chunk.js",
+    "static/css/main.3c419379.chunk.css",
+    "static/js/main.819e1115.chunk.js"
+  ]
+}
